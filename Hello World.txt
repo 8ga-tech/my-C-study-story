@@ -1,5 +1,0 @@
-include <stdio.h>
-int main() {
-printf("ÊÀ½çÄãºÃ\n");
-return0;
-}
